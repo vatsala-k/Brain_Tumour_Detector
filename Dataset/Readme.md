@@ -13,19 +13,9 @@ It is suitable for training and evaluating classification and detection models i
 
 - Format: JPG images
 - Number of classes: 4
-- Number of images: ~3000+
+- Number of images: 7023
 - Each class is organized into separate folders for training and testing.
-
-## Usage
-
-This dataset can be used for:
-- Image classification
-- Deep learning experiments (CNNs, transfer learning)
-- Medical image analysis
-- Educational projects
 
 ## Download
 
-You can download the dataset by clicking the button below:
-
-[![Download Dataset](https://img.shields.io/badge/Kaggle-Download%20Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+You can access and download the [dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) from Kaggle.
